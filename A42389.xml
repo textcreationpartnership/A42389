@@ -1,0 +1,449 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moses and Aaron brethren, or, The excellencie, necessity, consistencie, and vsefulnesse of magistracy and ministery under the Gospel opened in a sermon preached at the assizes held at Darby the eighth of March, MDCLIII / by Samuel Gardiner ... published not for contention, but satisfaction.</title>
+            <author>Gardiner, Samuel, 1619 or 20-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 52 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42389</idno>
+            <idno type="STC">Wing G247</idno>
+            <idno type="STC">ESTC R30401</idno>
+            <idno type="EEBO-CITATION">11308838</idno>
+            <idno type="OCLC">ocm 11308838</idno>
+            <idno type="VID">47403</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42389)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47403)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Moses and Aaron brethren, or, The excellencie, necessity, consistencie, and vsefulnesse of magistracy and ministery under the Gospel opened in a sermon preached at the assizes held at Darby the eighth of March, MDCLIII / by Samuel Gardiner ... published not for contention, but satisfaction.</title>
+                  <author>Gardiner, Samuel, 1619 or 20-1686.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Rothwell ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47403:1"/>
+            <pb facs="tcp:47403:1"/>
+            <p>Moſes and Aaron Brethren <hi>OR,</hi> The Excellencie, Neceſſity, Conſiſtencie, and Vſefulneſſe OF <hi>MAGISTRACY</hi> and <hi>MINISTERY</hi> under the GOSPEL: Opened in a SERMON Preached at the Aſſiſes held at <hi>Darby,</hi> the Eighth of <hi>March, M DC LIII.</hi>
+            </p>
+            <p>By <hi>Samuel Gardiner,</hi> M.A. late Fellow of <hi>Corpus Chriſti</hi> Colledge in <hi>Cambridge,</hi> and now Miniſter of the Goſpel at <hi>Eckington</hi> in <hi>Darbyſhire.</hi>
+            </p>
+            <p>Publiſhed not for Contention, but Satisfaction.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Rothwell,</hi> at the Fountain and Bear in Cheap-ſide, 1653.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:47403:2"/>
+            <pb facs="tcp:47403:2"/>
+            <head>To his honoured Friend and Patron, <hi>GEORGE SITWEL Eſquire,</hi> High Sheriff of the County of <hi>Darbie.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y ſpecial reſpects and obligements to your ſelf, was that which drew me forth upon this ſervice: What was preacht at your deſire, is now publiſht under your Name. If I have ſpoken ſomewhat free<g ref="char:EOLhyphen"/>ly in matters of ſo great concernment; it will be (I hope) in theſe times of freedome, if not commendable, yet par<g ref="char:EOLhyphen"/>donable: <hi>Et veniam pro laude peto.</hi> I am not ignorant, that the World is even ſurfeted on Sermons, many ha<g ref="char:EOLhyphen"/>ving been hearers ſo long, that now like them that live by the falls of the River <hi>Nilus,</hi> they are grown ſpiritually deaf, hear no more. But the occaſion of this Sermon is
+<pb facs="tcp:47403:3"/>not ordinary, may be leſs hereafter; and ſuch as will not patiently heare, may poſſibly better ſee their own errour, who while they pluck one ſtake after another out of the hedg of <hi>Government,</hi> endanger the laying all flat and level.</p>
+            <p>
+               <hi>Magiſtracie</hi> and <hi>Miniſtery</hi> are the great ſtays of the World, preſervatives of Order, Diſtinction and Reve<g ref="char:EOLhyphen"/>rence. The <hi>Miniſtery</hi> is the <hi>Magiſtrates</hi> guard, bank and bulwark; of ſingular uſe, even to civil peace and obe<g ref="char:EOLhyphen"/>dience, unleſs we can believe that a people will honour <hi>Magiſtrates,</hi> and obey their Laws, that through barba<g ref="char:EOLhyphen"/>rous irreligiouſneſs fears neither God nor men. But ſome men are ſo unjust as to deſire a <hi>Miniſtery,</hi> and yet to grudg them their maintenance, unleſs what's next to none, an arbitary, poor and uncertain one, as hard to come by, as to live on.</p>
+            <p>SIR, be you pleaſed ſtill to continue a cordial friend to <hi>Magiſtracie</hi> and <hi>Miniſtery, Religion</hi> and <hi>Learning, Piety</hi> and <hi>Sobriety;</hi> which will engrave you on the <hi>Annals</hi> of <hi>Time,</hi> a true <hi>Common-wealths-man:</hi> Praying the bleſſings of Heaven on you and yours, I reſt</p>
+            <closer>
+               <signed>
+                  <hi>Your obliged Friend and Servant in our Lord,</hi> Sam. Gardiner.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:47403:3"/>
+            <head>
+               <hi>Moſes</hi> and <hi>Aaron</hi> Brethren: OR, <hi>The excellencie, neceſſitie, conſiſtencie and uſefulneſs of</hi> Magiſtracie <hi>and</hi> Miniſterie <hi>under the</hi> Goſpel.</head>
+            <epigraph>
+               <bibl>
+                  <hi>PSAL. 71.20.</hi>
+               </bibl>
+               <q>Thou leddeſt thy people like a flock, by the hand of <hi>Moſes</hi> and <hi>Aaron.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He Pſalme is a Pſalme of <hi>Aſaphs.</hi> It may be entitled <hi>Aſaphs</hi> rehearſal <hi>Sermon,</hi> or a Pſalme to bring to remembrance Gods ancient mercies.
+<note place="margin">The title of the 38, and the 70 Pſalme.</note> 
+               <hi>I will remember thy wonders of old, verſe</hi> 11. old wonders of mercie. The Pro<g ref="char:EOLhyphen"/>phet (for ſo he was, as appears, 2 <hi>Chron.</hi> 29.30.) at the pen<g ref="char:EOLhyphen"/>ning of the Pſalme, ſeems to have been in a ſad condition:
+<pb n="2" facs="tcp:47403:4"/>his <hi>ſpirit overwhelmed, verſe</hi> 3. ſo as that he could neither ſleep nor ſpeak, <hi>verſe</hi> 4. yet he endeavours to raiſe up his hope and heart in God, by calling to minde <hi>his ancient loving kindneſs to his people Iſrael,</hi> whom when they came out of <hi>Ae<g ref="char:EOLhyphen"/>gype,</hi> a rude, mixt and ungovern'd multitude, he was yet pleaſed graciouſly to take the guidance and government of, to carry them through the red Sea,
+<note place="margin">
+                  <p>
+                     <hi>Mare algoſum,</hi> whoſe weeds hindered their paſſage.</p>
+                  <p>
+                     <hi>Specialiter fa<g ref="char:EOLhyphen"/>cta ant dicta generaliter ſa<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>unt.</hi> Tertul. Heb 13.5.</p>
+               </note> through all difficulties and perplexities in the Wilderneſs, to the promiſed land, by the ſervice of <hi>Moſes</hi> and <hi>Aaron;</hi> this the holy man of God recounts here, to his own particular comfort and encourage<g ref="char:EOLhyphen"/>ment as a ſingular mercy, not to be forgotten, with which he cloſes his Song, and concludes the Pſalme, <hi>Thou leddeſt, &amp;c.</hi>
+            </p>
+            <p>In the words we have,</p>
+            <p n="1">1 A ſingular and ſpecial mercy celebrated, The govern<g ref="char:EOLhyphen"/>ment of <hi>Iſrael</hi> in the Wilderneſs, expreſſed in this word, <hi>Led<g ref="char:EOLhyphen"/>deſt.</hi>
+            </p>
+            <p n="2">2 The principal Authour of this mercy, God himſelf; <hi>Thou leddeſt.</hi>
+            </p>
+            <p n="3">3 The Inſtruments imploy'd by God, in and for the be<g ref="char:EOLhyphen"/>ſtowing this mercy, <hi>Moſes</hi> and <hi>Aaron: By the hand of</hi> Moſes <hi>and</hi> Aaron.</p>
+            <p n="4">4 The ſubjects of this Government, or perſons partaking of this mercy, Gods own people: <hi>Thy people.</hi>
+            </p>
+            <p n="5">5 The manner or temper of this Government: <hi>like a flock. Thou leddeſt, &amp;c.</hi>
+            </p>
+            <p>To begin with the firſt particular, the mercy here celebra<g ref="char:EOLhyphen"/>ted; The Government of <hi>Iſrael</hi> in the Wilderneſs, expreſſed in this word, <hi>leddeſt.</hi>
+            </p>
+            <p>A mercy indeed moſt fit to be thankfully celebrated and remembred. For Government is the mercy of all outward mercies.
+<note place="margin">Exod. 39 29. <hi>Ordo eſt anima mundi.</hi>
+               </note> The bond that bindes, as the <hi>High Prieſts girdle,</hi> his other <hi>garments,</hi> all other <hi>bleſſings</hi> to us. The very life and ſoule of the World, without which it would preſently return to its old <hi>Chaos</hi> of confuſion, and become a carcaſe of corruption, rotting into its firſt ſimple elements. In a word,
+<pb n="3" facs="tcp:47403:4"/>the very breath of our noſtrils, without which we can no more live then without the common air we breath in; an expreſſion borrowed from no Court-flatterer, but from the Prophet <hi>Jeremy,</hi> and applied by him to none of the beſt Go<g ref="char:EOLhyphen"/>vernours, King <hi>Zedekiah, Lam.</hi> 4.20. <hi>The breath of our noſtrils, the anointed of the Lord, was taken in their pits, of whom we ſaid, <g ref="char:V">Ʋ</g>nder his ſhadow we ſhall live amongſt the heathen.</hi>
+            </p>
+            <p>But I need not ſail to <hi>Ophir</hi> for Gold, to guild this ſubject,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>placidè deducere, ut pa<g ref="char:EOLhyphen"/>ſtor gregem.</hi> Pagninus.</note> there's enough, a mine in the Text, in this one word <hi>ledaeſt.</hi> For it's a Paſtoral leading, or the leading of a Shepherd his ſheep, ſo much the word here uſed implies, and the latter words cleer it; <hi>for thou leddeſt like a flock,</hi> and ſo conſequently, as a <hi>Shepherd.</hi>
+            </p>
+            <p>Now in the <hi>Shepherds</hi> leading of his flock, there are three things that will ſufficiently ſet forth, and commend unto us the excellency of the bleſſing of Government.</p>
+            <list>
+               <item>1 <hi>Direction.</hi>
+               </item>
+               <item>2 <hi>Proviſion.</hi>
+               </item>
+               <item>3 <hi>Protection.</hi>
+               </item>
+            </list>
+            <p n="1">1 In the Shepherds leading there is direction, to which purpoſe, as our Saviour (the chief Shepherd of our ſouls) obſerves according to the cuſtome of thoſe Eaſtern Coun<g ref="char:EOLhyphen"/>tries, he goes before them, he leads them forth,
+<note place="margin">John 10.4.</note> and he brings them in, he has his whiſtle or voice to call, and if that will not do, his Dog to fetch in wanderers and ſtraglers.</p>
+            <p>Government a ſingular mercy in reſpect of direction, in regard it guides and directs men what to do, how to carry themſelves in the ſeveral windings and turnings of their lives. And this it does by wholeſome and good Laws, which are <hi>communis ratio,</hi> common reaſon, or reaſon of State, Na<g ref="char:EOLhyphen"/>tional wiſdome and underſtanding, civil directories pointing the unexperienc'd Traveller, like the <hi>Mercurial</hi> Statues of old, into the right path, or path of right:
+<note place="margin">Deut. 4.6.</note> Sheep are <hi>anima<g ref="char:EOLhyphen"/>lia erratica,</hi> apt to erre and go aſtray. It's no way good or ſafe for them to be left to the ſelf-deſtructive liberty of their own ſtraglings.
+<note place="margin">Praemio &amp; paenâ.</note> They muſt be infolded betwixt rewards and
+<pb n="4" facs="tcp:47403:5"/>puniſhments of wiſe laws, and ſometimes upon treſpaſs im<g ref="char:EOLhyphen"/>pounded.
+<note place="margin">Pſal. 119. laſt.</note> And men have their errours too; <hi>I have gone a<g ref="char:EOLhyphen"/>ſtray like a ſheep that's loſt,</hi> ſays the Kingly Prophet. The far greater part of men are born, not to rule, but to obey; to be led and directed by others, ſeeing they have not a ſufficiency of reaſon and underſtanding, much leſs of grace and hone<g ref="char:EOLhyphen"/>ſty, to carry themſelves inoffenſively toward God and man. The people of <hi>Iſrael,</hi> Gods own people, never ſtrayed farther from all Piety and Juſtice, then when every man was left to his own government and ſelf-direction; doing what was good in his own eyes. As we may ſee in the ſtory of the Levite and his Concubine (and ſuch times uſually make bold with the Levite) recorded in the laſt Chapter of <hi>Judges,</hi> and the laſt Verſe.</p>
+            <p>
+               <hi>Government</hi> a ſingular mercy in reſpect of direction, that's the firſt.</p>
+            <p n="2">2 In the <hi>Shepherds</hi> leading his ſheep, as there's direction, ſo proviſion;
+<note place="margin">Praeit ut proſit.</note> he goes before them, but it's to <hi>feed them;</hi> he <hi>leads them,</hi> but its to <hi>green paſtures,</hi> and <hi>cleer ſtill waters, Pſal.</hi> 23.2.</p>
+            <p>
+               <hi>Government</hi> a ſingular mercy in reſpect of proviſion, in re<g ref="char:EOLhyphen"/>gard it provides for all, takes care of all, even of the poore, of infants and out-caſts, that elſe would periſh: it regulates trade, it forbids Monopolies, ingroſſures, depopulating in<g ref="char:EOLhyphen"/>cloſures,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, as <hi>Ariſtotle</hi> wrote to <hi>Alexander.</hi> Pſal. 50 1. <hi>Divúm Pater.</hi>
+               </note> that ſo all may live in imployment.</p>
+            <p>
+               <hi>Governours</hi> and <hi>Magiſtrates,</hi> the powers mentioned, <hi>Rom.</hi> 13.1. as <hi>they are ordained of God:</hi> ſo it's <hi>in bonum,</hi> for good, to be not <hi>flagella ira Dei,</hi> the plagues and ſcourges, but ra<g ref="char:EOLhyphen"/>ther <hi>proviſores,</hi> to provide for the people committed to their care. <hi>To be like God</hi> whom they repreſent, <hi>optimi</hi> as well as <hi>ma<g ref="char:EOLhyphen"/>ximi,</hi> beſt as well as greateſt; and firſt beſt, and then greateſt. The hunger-ſtarv'd <hi>Aegyptians</hi> run to <hi>Pharach,</hi> and he ſends them to <hi>Joſeph,</hi> and what would they have done, if they had not had a <hi>Joſeph</hi> to provide for them?
+<note place="margin">2 Kings 6 26.</note> The woman in the ſiege of <hi>Samaria, cryed out to the King, Help, my Lord, ô King.</hi> Hence the Heathen placed the Images of their <hi>Magiſtrates</hi>
+               <pb n="5" facs="tcp:47403:5"/>by their ſpring-heads, which refreſh all comers,
+<note place="margin">Cauſſinus. H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ero. Gen. 20. <hi>Haurite ex me tanquam ex</hi> Nilo <hi>veſtro, Veſpaſian</hi> to the <hi>Egyptians</hi> in <hi>Sueton. Patres Conſcri<g ref="char:EOLhyphen"/>pti.</hi> 1 Tim. 5.8.</note> the poor<g ref="char:EOLhyphen"/>eſt and meaneſt. The King of <hi>Gerar</hi> is ſtyl'd <hi>Abimelech,</hi> that is, <hi>My father the King,</hi> and the <hi>Roman</hi> Senators were uſually ſtyl'd <hi>Fathers.</hi> Now it belongs to Fathers, as to guide and go<g ref="char:EOLhyphen"/>vern, ſo to provide for their family. <hi>Government,</hi> as it's a di<g ref="char:EOLhyphen"/>rection of all, ſo it's intended by God as a proviſion for all; and therefore in it's own nature, a ſingular bleſſing to all.</p>
+            <p n="3">3 In the <hi>Shepherds</hi> leading, as there's direction and provi<g ref="char:EOLhyphen"/>ſion, ſo protection: as he guides and feeds, ſo he defends his flock. To this purpoſe he has his ſtaff, and chiefly his Dog, not to worry weak ſheep, but <hi>abigere lupos,</hi> to drive away the Wolves and beaſts of prey from the fold. Otherwiſe he's a <hi>hireling,</hi> one that cares not for the ſheep, but the wooll.
+<note place="margin">Tondere, non tueri.</note>
+            </p>
+            <p>
+               <hi>Government</hi> a ſingular mercy: for as it directs men where they are apt to erre, provides for ſuch as are moſt expoſed to want; ſo it protects all in what they enjoy. Pluck up the hedge of <hi>Government,</hi> and all things are common.</p>
+            <p>No man has any thing which another may not ſay is his, if ſo be he have the longer ſword: <hi>Magiſtrates</hi> are therefore ſtyled the <hi>ſhields of the earth, Pſal.</hi> 47.9. The ſhield is a wea<g ref="char:EOLhyphen"/>pon of defence, not offence: it keeps off blows, it interpoſes it ſelf twixt harm and the body.
+<note place="margin">
+                  <hi>Codrus</hi> in <hi>Juſt.</hi> The <hi>Fabii</hi> and <hi>Decii</hi> in <hi>Florus.</hi> 2 Tim. 3.1, 2.</note> All ſtories divine and hu<g ref="char:EOLhyphen"/>mane are full of the names of ſuch as have ſacrificed them<g ref="char:EOLhyphen"/>ſelves to certain death for the ſafety of the <hi>Common-wealth.</hi> But, alas! we are fallen into the very dregs of time, men are <hi>lovers of themſelves,</hi> and that's a ſigne <hi>of perillous times,</hi> yea, a cauſe.</p>
+            <p>The King of <hi>Tyre</hi> is called an anointed covering <hi>Cherub,</hi> from the tender protection he gave his people, <hi>quaſiſub alis,</hi>
+               <note place="margin">Ezck. 28.18.</note> as it were under his wing: <hi>Magiſtrates,</hi> when worthy of their place and calling, are <hi>Angeli Cuſtodes,</hi> Guardian Angels of the places they <hi>preſule</hi> over, like the <hi>Cherubims</hi> that covered the <hi>Arke,</hi> the <hi>Law,</hi> and the <hi>Teſtimony</hi> from prophane irreverence,
+<note place="margin">Exod. 37.9.</note> or like thoſe <hi>Cherubims</hi> in Paradiſe, that with the flaming ſword of <hi>Juſtice</hi> defend the lives and poſſeſſions of their
+<pb n="6" facs="tcp:47403:6"/>people in peace and ſecurity. And is not this, my beloved, a ſingular mercy? have ye ſo ſoon forgot lawleſs and plunde<g ref="char:EOLhyphen"/>ring times? Feare, leſt a worſe thing happen unto you. Doubtleſs, to be deprived of the benefit of good Laws, and the protection of <hi>Government,</hi> is nothing elſe then with <hi>Ne<g ref="char:EOLhyphen"/>buchadnezar</hi> to be driven to live amongſt beaſts, of if amongſt men, under the curſe and trembling of <hi>Cain,</hi> that, <hi>omnis homo lictor,</hi> every one that meets us will ſlay us; <hi>Government</hi> then a ſingular mercy in reſpect of protection.</p>
+            <p>Let there be none amongſt us then that may deſerve the brand of Saint <hi>Peter,</hi>
+               <note place="margin">2 Pet. 2.10. Jude 8.</note> and Saint <hi>Jude,</hi> ſet on ſome in their days, (ſo ancient is the miſtake of true Chriſtian liber<g ref="char:EOLhyphen"/>ty) <hi>They deſpiſe dominion, and ſpeak evil of dignitie:</hi> preſum<g ref="char:EOLhyphen"/>ptuous and ſelf-will'd perſons.
+<note place="margin">
+                  <hi>Legibus ſervire libertas.</hi> Cicero. Aquinas. Yenophon. Cyrus.</note> We ſhould be moſt ungrate<g ref="char:EOLhyphen"/>ful to God and men for ſo excellent a bleſſing, if we ſhould look upon all <hi>Government</hi> as tyranny and ſlavery, on juſt Laws as bolts and ſhackles. It's true liberty to obey good Lawes. For good Lawes are nothing but <hi>recta ratio,</hi> right reaſon, and he's a beaſt or a bedlam, that will not be rul'd by reaſon. The <hi>Perſians</hi> taught their children the knowledge of <hi>Laws</hi> aſſoon as of <hi>Letters.</hi>
+            </p>
+            <p>And the <hi>Cretians</hi> and <hi>Agathyrſi</hi> were ſo in love with their Laws,
+<note place="margin">
+                  <hi>Concentu quo<g ref="char:EOLhyphen"/>dam Muſico.</hi> Aelian. Var. hiſt. Deut. 32.</note> that they taught them their children in Songs with Muſick. An imitation poſſibly of Gods own preſcription, who taught his people the ſum of his Laws in a Song. Saint <hi>Paul</hi> gives order that <hi>Prayers,</hi> and not onely <hi>Prayers,</hi> but <hi>Thanksgivings</hi> alſo <hi>ſhould be offered up to God for all in au<g ref="char:EOLhyphen"/>thority,
+<note place="margin">1 Tim. 2.1.</note> that under them we may live a peaceable life;</hi> if that we may, ſurely much rather when we do, or may if we pleaſe.</p>
+            <p>And great reaſon thanks ſhould be offered up to God in this behalf, in regard <hi>Deus nobis haec otia fecit;</hi> God is the principal authour of this mercy, whoſoever be the inſtru<g ref="char:EOLhyphen"/>ments, <hi>Thou leddeſt, though by the hand of</hi> Moſes <hi>and</hi> Aaron. <hi>God was the Shepherd of Iſrael,
+<note place="margin">Pſal. 80.1.</note> that led</hi> Joſeph <hi>like a flock,</hi> even he that ſits between the <hi>Cherubims. Thou leddeſt,</hi> ſayes <hi>Iſaiah,
+<pb n="7" facs="tcp:47403:6"/>thy people with thy glorious arm by the right hand of</hi> Moſes The hand was <hi>Moſes,</hi>
+               <note place="margin">Eſay 63.11.</note> ô but the glorious arm wrapt in the cloud was Gods: <hi>Thou leddeſt.</hi>
+            </p>
+            <p>God is indeed the great <hi>State-holder,</hi> the upholder of <hi>Go<g ref="char:EOLhyphen"/>vernment</hi> in the World.
+<note place="margin">Pſal. 47.9.</note> The <hi>Cap of Maintenance</hi> fits one<g ref="char:EOLhyphen"/>ly his head, <hi>Cujus nutu geruntur omnia. The ſhields of the earth are the Lords,</hi> they beare his arms, image, and inſcripti<g ref="char:EOLhyphen"/>on; he holds them up, and over the world.
+<note place="margin">Dan. 4.3 <hi>Omne regnum ſub gravtori. In ipſos reges Imperium eſt</hi> Jovis.</note>
+            </p>
+            <p>
+               <hi>The Kingdome is the Lords, and he is the chief Governour among the Nations, Pſal.</hi> 22.28. and <hi>this Kingdome rules over all, Pſal.</hi> 103.19. even in and over the <hi>Kingdomes</hi> of me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, diſpo<g ref="char:EOLhyphen"/>ſing of Crowns, and Scepters, as he pleaſes, leading his people by them that are their Leaders, though not by mira<g ref="char:EOLhyphen"/>culous or immediate, yet by ſpecial and over-ruling provi<g ref="char:EOLhyphen"/>dence.</p>
+            <p>This is old doctrine, and therefore I like it the better,
+<note place="margin">
+                  <p>Chriſtianus nul<g ref="char:EOLhyphen"/>lius hoſtis, ne dum Imperato<g ref="char:EOLhyphen"/>ris quem ſcit à Deo ſuo conſti<g ref="char:EOLhyphen"/>tui.</p>
+                  <p>Colimus ergo Imperatorem ut hominem à Deo ſecundum, &amp; quicquid eſt, à Deo conſecu<g ref="char:EOLhyphen"/>tum. <hi>Tertul.</hi> ad <hi>Scap.</hi>
+                  </p>
+                  <p>Indè Imperator unde &amp; homo, indè poteſtas il<g ref="char:EOLhyphen"/>la unde &amp; ſpiri<g ref="char:EOLhyphen"/>tus. <hi>Apolog.</hi>
+                  </p>
+                  <p>Cujus juſſu ani<g ref="char:EOLhyphen"/>mae naſcuntur, &amp; reges confli<g ref="char:EOLhyphen"/>tuuntur, &amp;c. <hi>Iren. lib 5. ad finem.</hi>
+                  </p>
+               </note> as old as <hi>Tertullian.</hi> A Chriſtian, ſay<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he, is no mans enemy, much leſs the Emperours, whom <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e knows to be appointed by his God. Go therefore, reverence the <hi>Emperour,</hi> as a man next to God, and as one that has obteined whatever he has gotten from God. And elſwhere, Thence comes the <hi>Empe<g ref="char:EOLhyphen"/>rour,</hi> whence comes his power, whence comes his ſpirit; which he learned from <hi>Irenaeus,</hi> before him, He whoſe pow<g ref="char:EOLhyphen"/>erful Word creates ſouls, the ſame creates Princes and Poten<g ref="char:EOLhyphen"/>tates, his Word, whoſe ſaying is making, who has ſaid of theſe men, <hi>Ye are gods. Pſal.</hi> 82.6.</p>
+            <p>That popular ſaying then, that all power is from the peo<g ref="char:EOLhyphen"/>ple, muſt be wiſely and warily underſtood, elſe it will be found both dangerous and irreligious. For though it's true, government of men over men is uſually co<g ref="char:cmbAbbrStroke">̄</g>mitted for executi<g ref="char:EOLhyphen"/>on to men, by the free conſent and choice of men; yet we muſt ſtill firmly hold, unleſs we deny providence, that it's primarily, principally, and originally from God, from whom, though in part by the good wils of men, deſcends <hi>every good and per<g ref="char:EOLhyphen"/>fect gift,</hi> Jam. 1.17.</p>
+            <p>And ſeeing the power or dominion of men over beaſts
+<pb n="8" facs="tcp:47403:7"/>and creeping things is on all hands acknowledg'd ſo divine, as that it's made a ſpecial part of Gods image, or likeneſs in man, certainly the power and dominion of men over their fellow-creatures men, muſt need be much more divine, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+<note place="margin">Jupiter <hi>quaſi juvans pater.</hi>
+               </note> the very image that fell from <hi>Jupiter,</hi> mention'd, <hi>Acts</hi> 19.35. Yea, <hi>the image of the living God,</hi> the true help<g ref="char:EOLhyphen"/>ing Father of the World, falne on men, cauſing them to ſhine like <hi>Moſes</hi> with the glorious beams of his own power communicated to them. In a word, to cloſe this particular, <hi>Government</hi> of men is nothing for the ſubſtance, but a power over m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns eſtates and lives. But this power muſt neceſſarily come primarily and originally from God; for who ſhall ex<g ref="char:EOLhyphen"/>empt the <hi>Magiſtrate,</hi> taking away any mans life and eſtate, from thoſe general, and by men uncontrolable Laws, <hi>Thou ſhalt not kill, Thou ſhalt not ſteal,</hi> but a divine diſpenſation, and a law equal in authority to the former?</p>
+            <p>A willing agreement and ſubmiſſion of men is not a<g ref="char:EOLhyphen"/>lone ſufficient. For though I be willing to be kill'd, deſire, yea command another man to kill me, yet he may not take away my life. Neither does the heinouſneſs or notori<g ref="char:EOLhyphen"/>ouſneſs of mens crimes authorize men to puniſh; for if one were going to ſuffer for killing his own father, a private man cannot without murther put him to death. But there is a di<g ref="char:EOLhyphen"/>vine Law impowring ſome men to theſe great actions, record<g ref="char:EOLhyphen"/>ed, <hi>Gen.</hi> 9.6. <hi>He that ſheds mans bloud, by man ſhall his bloud be ſhed.</hi> God has reſolved and enacted that in caſe of murther one man ſhall have power by vertue of this grant and grand Charter to take away,
+<note place="margin">Gen 9.6. <hi>Magna Charta Magiſtratûs.</hi>
+               </note> even the life of his fellow-creature, and that lawfully. Neither are we to conceive that God will himſelf puniſh every murderer, as <hi>Socinus</hi> would evade; for it's cleerly expreſs'd, <hi>By man ſhall his bloud be ſhed.</hi> God has authorized and deputed men to be his Miniſters and Ad<g ref="char:EOLhyphen"/>miniſtrators o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> judgement on men. The <hi>Magiſtrate</hi> or power is Gods <hi>Miniſter</hi> impowered, and ordained by him to execute wrath, <hi>i e.</hi> ſevere puniſhment, even to death, on evil doers.</p>
+            <pb n="9" facs="tcp:47403:7"/>
+            <p>
+               <hi>For he bears not the ſword in vain;</hi> and the ſword we know is the inſtrument of death. <hi>Jehoſhaphat</hi> in his charg to his Judges,
+<note place="margin">2 Chron. 19.6.</note> tels them <hi>they judg'd not for men, i.e.</hi> primarily or onely, but <hi>for and in the room of the Lord,</hi> as his <hi>Deputies</hi> and <hi>Vice-gerents,</hi> miniſters and inſtruments; ſo that what they do according to his powers and inſtructions, he does by them: <hi>Thou leddeſt, though by the hand of</hi> Moſes <hi>and</hi> Aaron.</p>
+            <p>Let the fear of God then fall upon all your hearts this day. Every thing that's divine, ſprings from God, bears his Name and appointment, is ſacred and reverend. Power of ſome men over others naturally their equals, is from God his order and inſtitution. They could have no pow<g ref="char:EOLhyphen"/>er over us, our lives, and eſtates, were it not given and granted them, not onely from beneath, by the will of men, but chiefly from above, by the will of God, as our Saviour acknowledges concerning even <hi>Pilates</hi> ju<g ref="char:EOLhyphen"/>riſdiction over him, which was uſurped, or at leaſt im<g ref="char:EOLhyphen"/>pos'd without the free conſent of the people, as all Hiſtories manifeſt. <hi>The powers that be, are ordained of God,</hi>
+               <note place="margin">John 19.11. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> and <hi>no power but is ſo, Rom.</hi> 13.1. The God of gods has ſaid, <hi>They are gods,</hi> and we muſt reverence him and his power in them.</p>
+            <p>What then? our Saviour ſaid concerning <hi>John</hi> Baptiſt, <hi>What went ye out to ſee? a man clothed in ſoft raiment? &amp;c.</hi>
+               <note place="margin">Matth, 11.9.</note> We may apply to the preſent occaſion: What come ye out for to ſee? men clothed in Scarlet, meer men? yea, I ſay unto you, Theſe are more then men; for God hath ſaid of theſe men, that <hi>they are Gods,</hi> and all children of the moſt High. So that, I hope, I may uſe in a better ſenſe the words of thoſe of <hi>Lyſtra: The gods,</hi>
+               <note place="margin">Acts 14 11.</note> or rather God <hi>is come down to us in the like<g ref="char:EOLhyphen"/>neſſe of men.</hi>
+            </p>
+            <p>Truly, my Lords, the ſolemn ſound of the Trumpet (a good <hi>Memoranaum</hi> of the grand Aſſize, whereat Judges them<g ref="char:EOLhyphen"/>ſelves muſt be judg'd) your ſcarlet dip't in the blood of Ma<g ref="char:EOLhyphen"/>lefactors,
+<note place="margin">Vox capitis in ore membri.</note> your erected ſeat of Juſtice and ſolemne attend<g ref="char:EOLhyphen"/>ance, are apt to breed awe in the hearts of men. But, alas!
+<pb n="10" facs="tcp:47403:8"/>this is but the outſide, the ceremonie, and trappings of ho<g ref="char:EOLhyphen"/>nour, <hi>ad populum phaleras.</hi> The ſacred majeſty of God, whoſe perſon ye repreſent, whoſe Judgement ye pronounce, on evill doers, (for <hi>the Judgement is not yours, but the Lords, Deut.</hi> 1.17.) This is that which makes ye truly honourable to all religious and judicious mindes. <hi>Divinity</hi> is the main<g ref="char:EOLhyphen"/>teiner of your civill <hi>Honour,</hi> and <hi>Religion</hi> beares up the <hi>Tri<g ref="char:EOLhyphen"/>bunall</hi> in <hi>reverence,</hi> whileſt men are taught to diſcern God, as having the chief hand and ſtroke in Government, by whom <hi>Kings reigne, Princes decree Juſtice,</hi> yea, all the <hi>Nobles</hi> and <hi>Judges of the earth.</hi>
+               <note place="margin">Prov. 5.16.</note> Whileſt men ſee and acknowledge God ruling by <hi>Rulers,</hi> and leading by them that are <hi>Leaders. Thou leddeſt by the hand of</hi> Moſes <hi>and</hi> Aaron.</p>
+            <p n="3">3 But leſt any ſhould be ſo wrapt up into the conſiderati<g ref="char:EOLhyphen"/>on of Gods Sovereignty and providential rule of the World, as to deſpiſe <hi>Moſes</hi> and <hi>Aaron,</hi> the Inſtruments he employs; we muſt give them a juſt and due conſideration, and ſo the third particular, the Inſtruments imployed by God in and for the handing down this heaven-borne bleſſing, <hi>By the hand,</hi> or Miniſteriall ſervice, of <hi>Moſes</hi> and <hi>Aaron.</hi>
+            </p>
+            <p>It was the declaration of <hi>Corah,</hi> and his Complices (and I am ſorry to hear ſome men uſe even the very ſame words; the dumbe earth opened her mouth againſt, and I thought had ſufficiently confuted and buried, unleſſe we could expect ſtones ſhould ſpeak) Are not all Gods people holy? his Cler<g ref="char:EOLhyphen"/>gy, lot, and inheritance? what need of <hi>Aaron</hi> the Prieſt? And is not the Lord amongſt us? does not he guide and go<g ref="char:EOLhyphen"/>vern the World? does he need any Vicars or Vicegerents? what need of <hi>Moſes</hi> the <hi>Magiſtrate?</hi>
+            </p>
+            <p>But ſober Chriſtians, and ſuch as will, may eaſily under<g ref="char:EOLhyphen"/>ſtand, that God, as at firſt he made all things of nothing a<g ref="char:EOLhyphen"/>lone by himſelf: ſo he could, if he ſo pleaſed, preſerve and co<g ref="char:cmbAbbrStroke">̄</g>tinue in being al things he has made alone by himſelf, with<g ref="char:EOLhyphen"/>out the ſubſidiary and aſſiſtance of one creature to ano<g ref="char:EOLhyphen"/>ther. And he could, as preſerve all creatures alone by him<g ref="char:EOLhyphen"/>ſelf, ſo inſtruct and teach, rule and govern all men by his own
+<pb n="11" facs="tcp:47403:8"/>power and Spirit, without the Miniſtery or ſervice either of <hi>Moſes</hi> or <hi>Aaron,</hi> Magiſtrate or Miniſter; yet we know not<g ref="char:EOLhyphen"/>withſtanding Gods almightineſſe, he has appointed ſecon<g ref="char:EOLhyphen"/>dary cauſes, meanes, and inſtruments in order to preſerva<g ref="char:EOLhyphen"/>tion; and it's no truſting, but tempting of God to expect pre<g ref="char:EOLhyphen"/>ſervation from him, unleſſe we uſe the meanes appointed by him under his bleſſing thereunto. Now as for preſervation, ſo for inſtruction &amp; correction of evil doers God has appointed ſecondary meanes and inſtruments; to wit, Magiſtrates and Miniſters. And it's no leſs preſumptuous tempting of God to expect immediate revelations in order to inſtruction, or miraculous executions of judgement from heaven on evil do<g ref="char:EOLhyphen"/>ers in order to correction: no, we muſt humbly uſe the means God has ſetled and ordeined thereunto.</p>
+            <p>Not as if he could not do theſe things alone by himſelf, but in regard his wiſdome has ſo determined, partly to put the honour of employment on his creatures he has fitted thereunto; partly to try our obedience to him by obeying them. For it's a truth appears every day more and more, that ſuch perſons as contemn the Miniſters of God (and Magiſtrates are Miniſters too, <hi>Rom</hi> 13.4. <hi>He is the Miniſter of God to execute wrath</hi>) will thereby be imboldened to contemn God himſelf; and that they that deſpiſe the Ordinances and appointments of God, as to the Church, will hardly o<g ref="char:EOLhyphen"/>bey men's, as to the State, for Gods ſake. Power and Autho<g ref="char:EOLhyphen"/>rity is, as hath been cleared, primarily and originally in God, but he keeps it not in his own hands, but delegates and de<g ref="char:EOLhyphen"/>putes men over men in his room and ſtead; to whoſe care and guidance he commits his people, making uſe of their ſer<g ref="char:EOLhyphen"/>vice and Miniſtery; <hi>Thou leddeſt thy people by the hand of</hi> Mo<g ref="char:EOLhyphen"/>ſes, &amp;c.</p>
+            <p>And here we have two things conſiderable. 1 The order. Then the union.</p>
+            <p n="1">1 The order. Firſt <hi>Moſes:</hi> then <hi>Aaron. Moſes,</hi> who is he? the ſupream <hi>Magiſtrate;</hi> the priority and precedencie is his. <hi>Papiſts</hi> are for the Supremacie of <hi>Aaron; Proteſtants</hi> are for
+<pb n="12" facs="tcp:47403:9"/>the ſupremacie of <hi>Moſes.</hi> And ſurely herein we obſerve Gods own order. In the prophecie of <hi>Haggai, Zerubbabel</hi> the Governour or Prince of the Captivity is five ſeverall times conſtantly ſet before Joſhua <hi>the ſon of</hi> Joſedec <hi>the High Prieſt.
+<note place="margin">2 Kings 2 25.</note> Solomon</hi> put <hi>Abiathar</hi> from his place. S. <hi>Peter</hi> exhorts all Chriſtians without exemption <hi>to ſubmit to the King,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as to him that hath <hi>apicem authoritatis,</hi>
+               <note place="margin">2 Pet. 2.13. <hi>Tanquam prae<g ref="char:EOLhyphen"/>cellenti.</hi>
+               </note> the ſuper<g ref="char:EOLhyphen"/>eminency over all perſons whatſoever. Surely Saint <hi>Peter</hi> better knew Chriſts order then his pretended ſucceſſor. <hi>Ter<g ref="char:EOLhyphen"/>tullian</hi> acknowledges the <hi>Pagan</hi> perſecuting <hi>Emperour</hi> the next man to God, greater then all, whileſt leſſe then God onely. Neither is any ignorant that have look'd into Eccle<g ref="char:EOLhyphen"/>ſiaſticall Hiſtory, how this ſupremacy of power, even in mat<g ref="char:EOLhyphen"/>ters of Religion was inlarged and exerciſed by the ſucceed<g ref="char:EOLhyphen"/>ing <hi>Emperours,</hi> when they became Chriſtians. <hi>Non eripit ter<g ref="char:EOLhyphen"/>reſtria,
+<note place="margin">
+                     <hi>Colimus Impe<g ref="char:EOLhyphen"/>ratorem ut ho<g ref="char:EOLhyphen"/>minem à Deo ſecundum.</hi> Ter<g ref="char:EOLhyphen"/>tul. <hi>ad</hi> Scap. <hi>Omnibus major dum ſolo Deo minor.</hi> Apolo<g ref="char:EOLhyphen"/>get. Euſeb. <hi>vitâ</hi> Conſtant. Socrates, &amp;c.</note> qui regna dat coeleſtia.</hi> And what was the right of Emperours then, holds proportionably true of all ſupream Powers now under their ſeverall kindes and formes of Ad<g ref="char:EOLhyphen"/>miniſtration.</p>
+            <p>
+               <hi>Proteſtant</hi>-Miniſters were the revivers and chief maintain<g ref="char:EOLhyphen"/>ers of this ancient truth againſt Popiſh claimes, with their inke and blood, for which the <hi>Magiſtrate</hi> owes them a kind<g ref="char:EOLhyphen"/>neſſe, who notwithſtanding they differ among themſelves, as to the particular forme of Church-diſcipline, (do not Law<g ref="char:EOLhyphen"/>yers and Phyſicians differ in opinion?) yet they all agree in an acknowledgement of ſubjection to the ſupream Magiſtrate. For Epiſcopall men, their Judgement is known. <hi>Presbyterians</hi> acknowledge themſelves accountable to the Magiſtrate in theri Miniſteriall Functions.
+<note place="margin">Papers in the Iſle of <hi>Wight,</hi> the laſt Conſi<g ref="char:EOLhyphen"/>derat. and caur. of the <hi>Londo<g ref="char:EOLhyphen"/>ners,</hi> upon <hi>A<g ref="char:EOLhyphen"/>pologet. Narrat.</hi>
+               </note> And Congregationall men ſay they give more to the Magiſtrates power in matters of Reli<g ref="char:EOLhyphen"/>gion then the former; ſo that though there be an avowed diſtinction, as to the right of Adminiſtration, (for we read not that <hi>Moſes</hi> medled with the adminiſtration of holy things after the conſecration of <hi>Aaron,</hi> and we know how dear it coſt <hi>Saul</hi> his ſacrificing, and <hi>
+                  <g ref="char:V">Ʋ</g>zziah</hi> his incenſe burn<g ref="char:EOLhyphen"/>ing) yet ſeeing there is a profeſſ'd ſubjection to the Magi<g ref="char:EOLhyphen"/>ſtrates
+<pb n="13" facs="tcp:47403:9"/>ſuperinſpection, regulation, and cenſure, there may well come in the ſecond particular, the <hi>Union, By the hand of</hi> Moſes <hi>and</hi> Aaron.</p>
+            <p>Not by the hand of <hi>Moſes</hi> alone, nor by the hand of <hi>Aaron</hi> alone, but <hi>by the hand of</hi> Moſes <hi>and</hi> Aaron; both are inſtrumental in order to this mercie both are employed by God, both uſeful and neceſſary; for without <hi>Moſes</hi> they would not have been a people, a flock, but as ſheep ſcattered on the mountains of prey, having no <hi>Shepherd;</hi> and without <hi>Aaron</hi> they would not have been Gods people. As men, we need <hi>Moſes;</hi> as Chriſtian men, we need <hi>Aaron.</hi> And better to be no men,
+<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Diod. Sic. <hi>apud</hi> Juſt. Martyr. <hi>in Pa<g ref="char:EOLhyphen"/>raen.</hi> Exod. 4.14, 15.</note> then not to be reli<g ref="char:EOLhyphen"/>gious men; and to be no people, then not to be Gods. When <hi>Iſrael</hi> Gods people here were to be led out of <hi>Egypt, Moſes</hi> (whom the very Heathen commend, as a prudent and gallant man) would not undertake this ſervice alone, wherefore for the facilitating the work, God tels him, <hi>Aaron</hi> the Levite his brother was comming to meet him, and would be glad in his heart to ſee him. They meet, and kiſs each other, and both are commiſſioned by God to bring <hi>Iſrael</hi> out of <hi>Egypt; Thou leddeſt thy people by the hand of</hi> Moſes <hi>and</hi> Aaron.</p>
+            <p>And it's here <hi>by the hand:</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>in manu,</hi> in, or by the hand; in the ſingular, <hi>not hands,</hi> to intimate the <hi>unity</hi> and <hi>conſiſtencie</hi> of theſe two perſons and their functions (diſtinct, though not oppoſite) together. <hi>Moſes</hi> and <hi>Aaron</hi> may be ſeverall fingers, and his may be the longeſt, and yet they may well make up ſtill one hand of <hi>Government:</hi>
+               <note place="margin">Matth. 17.3.</note> by the hand of <hi>Moſes</hi> and <hi>Aaron.</hi> There is no inconſiſtency 'twixt <hi>Moſes</hi> and <hi>Aa<g ref="char:EOLhyphen"/>ron, Magiſtracie</hi> and <hi>Miniſterie.</hi> There's no jarring in the Mount 'twixt <hi>Moſes</hi> the ſupreme Law-giver, and <hi>Elijah</hi> the King-reproving Prophet.
+<note place="margin">Exod. 7.12. Revel. 11.8.</note> 
+               <hi>Moſes</hi> his rod though it may de<g ref="char:EOLhyphen"/>voure the rods of the <hi>Egyptian</hi> Sorcerers of <hi>Rome,</hi> (which is ſpiritually <hi>Egypt</hi>) that draw people to the obedience of ano<g ref="char:EOLhyphen"/>ther ſupream Head, yet not <hi>Aarons</hi> rod.
+<note place="margin">Numb. 17. 1 Cor. 4.21.</note> And <hi>Aaron had a rod laid by the pot of Manna:</hi> So had S. <hi>Paul; Shall I come un<g ref="char:EOLhyphen"/>to you with the rod?</hi> The rod of information and correction are
+<pb n="14" facs="tcp:47403:10"/>not inconſiſtent, but ſubſervient each to other: Lightning ſhould go before Thunder: informe, convince, then think of puniſhing men.</p>
+            <p>
+               <hi>Moſes</hi> and <hi>Aaron</hi> we know were brethren, and brethren naturally love one another, and are helpfull each to other. When <hi>Iſrael</hi> was intangled in the warre with <hi>Amaleck</hi> in the Wilderneſs,
+<note place="margin">Exod. 17.12.</note> 
+               <hi>Moſes's hands grew weary and heavy, Aaron then held them up. Had not Aaron helped Moſes, Moſes had not held out, nor Iſrael prevailed againſt their enemies.</hi>
+            </p>
+            <p>They were led, but ſtill <hi>by the hand of Moſes and Aaron:</hi>
+            </p>
+            <p>Whether is it any hinderance to this ſo deſirable and uſe<g ref="char:EOLhyphen"/>ful harmony, that <hi>Aaron</hi> pleads a divine right for his office, as <hi>Moſes</hi> for his: is it any wonder that brethren lay claim to the ſame Father? <hi>Moſes</hi> and <hi>Aaron</hi> are Brethren. But to ſhew the weakneſs of this exception. Are not all <hi>Magiſtrates</hi> by divine right as well as the Supream? Does not the Apoſtle ſay, <hi>There's no power but of God;</hi>
+               <note place="margin">Rom. 13.1. Beza <hi>in locum.</hi>
+               </note> and, <hi>Let every ſoul be ſubject to the higher powers?</hi> The Apoſtle ſayes not, as <hi>Beza</hi> obſerves, <hi>Let every ſoul be ſubject to the higheſt power, but to the higher powers.</hi> And inferiour <hi>Magiſtrates</hi> are higher powers, in re<g ref="char:EOLhyphen"/>ſpect of the people, as well as the Supream. Will they there<g ref="char:EOLhyphen"/>fore undermine the Supream? or muſt the Supream <hi>Magi<g ref="char:EOLhyphen"/>ſtrate,</hi> to ſhew his Supremacy over all, perform all Offices in his own perſon? Have not <hi>Maſters</hi> a cleer divine right <hi>to rule their ſervants? Parents to rule their children?</hi> are they therefore inconſiſtent with the Supremacy of the civil <hi>Magiſtrate?</hi> May they not with ſubordination and declared ſubjection, mould up into one civil Politie, Society and Government?</p>
+            <p>I have ſtuck a little in this, in regard there are evil, envious men who go up and down ſowing the tares of diviſion in the Nation betwixt <hi>Brethren,</hi> even theſe two, <hi>Moſes</hi> and <hi>Aaron.</hi> As if they were <hi>Cadmei fratres,</hi> brethren that cannot ſtand together, but muſt deſtroy one another; ſurely there is no ſuch antipathy, as theſe men (fearing their own ſhadow) ima<g ref="char:EOLhyphen"/>gine 'twixt <hi>Magiſtracie</hi> and <hi>Miniſtery.</hi> If ſo, ſurely it would have appeared long ago in the government of Gods people,
+<pb n="15" facs="tcp:47403:10"/>but there's no ſuch complaint; yea, contrarily we have in this very text a thankful acknowledgement of Gods ſingular mercy in and by the government of both, ſubſcrib'd in the behalf of himſelf and all God's people, by the undoubted Prophet <hi>Aſaph: Thou leddeſt</hi> (amongſt other ſpecial mercies) <hi>thy people by the hand of Moſes and Aaron.</hi>
+            </p>
+            <p>And this leads me to the fourth particular, the ſubjects of this divine Government, Gods own people, <hi>Thy people.</hi>
+            </p>
+            <p>The people whom he choſe out of all the Nations of the earth to be his peculiar people, a people to whom he was not onely a God, but a King; for their Government was a Theo<g ref="char:EOLhyphen"/>cracy, as <hi>Philo</hi> calls it.</p>
+            <p>
+               <hi>The Lord was their Law-giver, the Lord was their King;</hi> as they acknowledge, <hi>Eſay</hi> 33.22. A people to whom he not only gave moſt excellent Laws without them, to guide them, (for their Laws were all divine, of Gods own framing) but alſo his holy Spirit within, to rule and govern them, yea, who enjoyed extraordinary manifeſtations of the Spirit, in Dreams, Viſions, and Revelations, <hi>
+                  <g ref="char:V">Ʋ</g>rim</hi> and <hi>Thummim;</hi> Gods miraculous preſence, <hi>going before them, and leading them by the Cloud by day, and the Pillar of fire by night;</hi> &amp; yet notwith<g ref="char:EOLhyphen"/>ſtanding all this, God would not leave, even this people, to their own private ſpirit, and ſelf-government, but committed them to the guidance and publick direction of <hi>Moſes</hi> and <hi>Aaron, men ſubject to the ſame paſſions,</hi> weakneſſes and miſcar<g ref="char:EOLhyphen"/>tiages with themſelves. <hi>Thou leddeſt thy people by the hand of Moſes and Aaron.</hi>
+            </p>
+            <p>By what hath been ſaid (honoured and beloved) ye may eaſily diſcern the ſelf-conceit, or at leaſt deceit of thoſe, who becauſe they are, as they ſay, Gods people, have his grace and Spirit within to teach and govern them, deſpiſe all outward inſtruction or government as below them, bitterly ſcorn and revile the <hi>Miniſtery</hi> both of <hi>Moſes</hi> and <hi>Aaron.</hi> For <hi>Moſes</hi> the Law-giver, they have the Law written in their hearts. They need none of your outward dead, killing letter. They have the Spirit: and no queſtion, the Spirit of God is as able
+<pb n="16" facs="tcp:47403:11"/>to make a man on a ſudden without ſtudy or meditation an accompliſht Lawyer, Phyſician, Husbandman, &amp;c. (as a Mi<g ref="char:EOLhyphen"/>niſter) and makes in that manner in theſe dayes as many of one ſort as another. But for <hi>Aaron,</hi> they are all Prieſts, and why not Kings too, as well as <hi>John</hi> of <hi>Leiden?</hi> all Prophets taught of God, and ſhall they be put to charges to be taught of men?</p>
+            <p>But ſuch Anabaptiſtical fancies as theſe are ſufficiently diſ<g ref="char:EOLhyphen"/>cover'd by the light of this Text, to honeſt mindes, that ſeek nothing but truth, and the ſaving their ſouls, not their tithes. For we ſee here plainly that God ſetled this way of govern<g ref="char:EOLhyphen"/>ing by <hi>Moſes</hi> and <hi>Aaron,</hi> ruling and teaching Elders, over his own people; it's cleerly divine: and dare any man think God ſetled a <hi>Government</hi> over his people, tyrannical, oppreſ<g ref="char:EOLhyphen"/>ſive, or prejudicial to their temporal or ſpiritual concern<g ref="char:EOLhyphen"/>ments? yea, though in thoſe dayes, the Canon or Rule of divine Writ not being fully compleated?</p>
+            <p>The true ſpirit of prophecie, not that booriſh, apiſh ſprite, that ſcares <hi>Ranters</hi> and <hi>Quakers</hi> out of all ſenſe and reaſon, was more generally beſtowed then now it is, or need to be; yet God would ſtill have a publick, outward, ſtanding <hi>Ma<g ref="char:EOLhyphen"/>giſtracie</hi> and <hi>Miniſtery,</hi> to rule and direct his people; and he that preſumptuouſly and contemptuouſly oppoſed their di<g ref="char:EOLhyphen"/>rections,
+<note place="margin">Deut. 17.12.</note> was to die the death: ſo far was God from leaving every one to his own humour, and ſelf-government, even of his own people, who were a Kingdom of Prieſts, holy, and deare unto God, as well as any now under the Goſpel.</p>
+            <p>But ſays the <hi>Socinianiz'd Anabaptiſt,</hi> There's great diffe<g ref="char:EOLhyphen"/>rence 'twixt the <hi>Jews</hi> and us:
+<note place="margin">
+                  <hi>Gradu, non ſub<g ref="char:EOLhyphen"/>ſtantia.</hi> Iten. <hi>Euſeb.</hi> was the <hi>Jews,</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Lib.</hi> 1. § 5.</note> we are Chriſtians. You muſt not urge legal adminſtrations and inſtitutions in Goſpel<g ref="char:EOLhyphen"/>times. I anſwer, The <hi>Jews</hi> were Chriſtians as well as we, were they not believers, ſaved by faith? <hi>Heb.</hi> 11. Was not <hi>A<g ref="char:EOLhyphen"/>braham</hi> one, who <hi>was the father of the faithful?</hi> The Jewiſh and Chriſtian Church differ not in ſubſtance, but in degree of perfection onely; in time and growth, not in nature.</p>
+            <p>Can they prove <hi>Magiſtracie, Miniſtery,</hi> or <hi>Tithes</hi> either
+<pb n="17" facs="tcp:47403:11"/>Ceremonials, things that have in them any thing peculiar typical, proper to the <hi>Jews</hi> as ſuch, no way allowable under the Goſpel? if not, their exception is vain and frivolous.</p>
+            <p>But who were they to whom Saint <hi>Paul</hi> writes,
+<note place="margin">Rom. 13.1.</note> 
+               <hi>to be ſub<g ref="char:EOLhyphen"/>ject to the higher powers?</hi> Were they not Chriſtians? Does he not enjoyn <hi>Titus</hi> to put Chriſtians in minde,
+<note place="margin">Tit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s 3.1.</note> 
+               <hi>to be ſubject to principalities and powers, to obey Magiſtrates?</hi> This is New Teſtament-doctrine, and is not that a Chriſtians?
+<note place="margin">1 Theſſ. 5.12.</note> 
+               <hi>We be<g ref="char:EOLhyphen"/>ſeech you, Brethren, to know them that labour amongſt you, and are over you in the Lord,</hi> (ſurely without ſelf-exaltation, and love of pre-eminency) <hi>and to eſteem them very highly for their work ſake.</hi> What work? for <hi>admoniſhing you.</hi>
+               <note place="margin">Iſaiah 29.21.</note> But men of this ſpirit moſt ſcornfully miſ-eſteem them, hating them whoſe ſpecial ofice it is <hi>to reprove in the gate.</hi> And no queſtion, they that hate <hi>Miniſters</hi> for admoniſhing them of their ſinnes and er<g ref="char:EOLhyphen"/>rours, do, however they hide it, hate <hi>Magiſtrates</hi> much more in their hearts, for puniſhing their perſons. But if ſuch principles of levelling <hi>Anabaptiſme</hi> prevail, it's no great matter whether men be <hi>Magiſtrates</hi> or <hi>Miniſters;</hi> they'l make a perfect parity: which if it be the <hi>Goſpel-Refor<g ref="char:EOLhyphen"/>mation,</hi> it's juſt it ſhould be a thorow one. But I ſhall cloſe up this with the ſerious and ſeaſonable admonition of Saint <hi>Peter: Wherefore, Beloved, ſeeing ye know theſe things before,</hi>
+               <note place="margin">2 Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 3.17.</note> (what they tend to) <hi>take heed, leſt ye be carried away,</hi> (as with a land-flood) with the errour <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>of the lawleſs ones,</hi> or, as we read it, <hi>wicked ones.</hi> And they may well ſtand to<g ref="char:EOLhyphen"/>gether, for <hi>lawleſſe perſons</hi> are <hi>wicked perſons,</hi> either they muſt be ſo or the lawes. Such they have formerly prov'd; wit<g ref="char:EOLhyphen"/>neſſe the <hi>Circumcelliones,</hi> or rigid <hi>Donatiſts</hi> of old, and the <hi>Anabaptiſts</hi> in <hi>Germany</hi> of late.</p>
+            <p>But leſt any ſhould ſurmiſe, as the world is full of jealou<g ref="char:EOLhyphen"/>ſie and miſtake, that I have ſpoken all this while covertly for ryranny, oppreſſion, or perſecution of quiet and harmleſſe perſons; for inſolent domination over Gods people, either by <hi>Moſes</hi> or <hi>Aaron, Magiſtrate</hi> or <hi>Miniſter;</hi> let me requeſt your patience to the laſt particular. The temper or manner
+<pb n="18" facs="tcp:47403:12"/>of this Government, which I have hitherto vindicated and commended, expreſſed in this <hi>Metaphor, like a flock.</hi> There's two things it, <hi>Lenity, Unity.</hi> I am for both.</p>
+            <p n="1">1 <hi>Lenity, like a flock;</hi> not like an herd of Swine, or drove of Oxen, that are driven by violence and rigour; but like a <hi>flock of ſheep,</hi> that muſt be gently and tenderly led. The <hi>Ro<g ref="char:EOLhyphen"/>manes</hi> ſometimes took their Generals from the Plough,
+<note place="margin">Duci volunt, n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n cogi.</note> which rips up the bowels of our common mother, the earth; but God, when he choſe a man after his own heart to govern his people,
+<note place="margin">Flotu <hi>lib.</hi> 1.</note> 
+               <hi>David, from following the Ewes great with young,</hi> (a condition requiring all tenderneſſe) <hi>he took him that he might feed</hi> Jacob <hi>his people,</hi>
+               <note place="margin">Pſal. 78.72.</note> and Iſrael <hi>his Inheritance,</hi> He brought him up a tender <hi>Shepherd over ſheep,</hi> that ſo he might make him (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, as <hi>Homer</hi> calls his Prince) <hi>a fit Shepheard of men Moſes</hi> was a man of the ſame occupation, a <hi>Shepherd,</hi> and of the ſame temper and diſpoſition too;
+<note place="margin">Numb. 12.3.</note> 
+               <hi>the meekeſt man upon the face of the earth,</hi> as ſoft as the wool on his Sheeps backs; his gentle hand it is by which <hi>God led</hi> Iſrael; no <hi>Pha<g ref="char:EOLhyphen"/>eton's</hi> or <hi>Furius's: Thou leddeſt thy people by the hand of</hi> Moſes.</p>
+            <p n="2">2 It notes as a leading with lenity, ſo in unity, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſicut pecudem,</hi> like one ſheep in reſpect of unity; like a flock, in reſpect of ſociety and communion. Our Saviour often com<g ref="char:EOLhyphen"/>pares his Deſciples to ſheep; it's his uſuall <hi>Hieroglyphick, Joh.</hi> 10. <hi>Matth.</hi> 25. <hi>Sometimes to a flock, Luke</hi> 12.32. <hi>Fear not, little flook.</hi>
+               <note place="margin">Heb. 10.25.</note> Sheep are <hi>animalia aggregativa. Love the flock,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> to ſynagoguize, to aſſemble together. Beaſts of prey, as lions and beares are <hi>ſolivaga,</hi> love to wander alone. It's true, ſheep are apt to go aſtray; and therefore Shep<g ref="char:EOLhyphen"/>herds are neceſſary, but it's never more then when they leave the Shepherd and the ſheep-fold. I have gone aſtray like a ſheep that's loſt, <hi>Pſal.</hi> 119. <hi>ult.</hi> We read in the Goſpel of a ſheep loſt, ſeldome or never of a flock loſt. There's great ſecurity, as well as comfort, in the communion of found and honeſt Chriſtians. The communion of Saints is indeed an article of our faith, but we have diſputed it almoſt to no<g ref="char:EOLhyphen"/>thing. I care not to graſpe ſhadowes. But certainly, God
+<pb n="19" facs="tcp:47403:12"/>delights not in ſubtle, nice, and unneceſſary ſeparations and diviſions. It pleaſes him little to ſee his people ſcatter'd up and down in holes and hedge-bottoms. He loves to ſee them <hi>tanquam gregem,</hi> like a flock. <hi>Thou leddeſt thy people like a flock.</hi>
+            </p>
+            <p>And ô that Gods people would be like Gods people here, <hi>like a flock.</hi> And to that end that they would without peeviſh<g ref="char:EOLhyphen"/>neſſe or prejudice be led,
+<note place="margin">Ezek. 13.7. Matth. 26.31.</note> as God in all ages has led his peo<g ref="char:EOLhyphen"/>ple by <hi>Moſes</hi> and <hi>Aaron, Magiſtrates</hi> and <hi>Miniſters;</hi> for ſeeing there is no infallible ſpirit to direct us in our dayes, unleſſe in the <hi>Popes chair,</hi> or the <hi>Anabaptiſts ſtool,</hi> it's the ſu<g ref="char:EOLhyphen"/>reſt and beſt way of government. God has now left us to follow, at leaſt to ſubmit to the judgements of ſuch men as God in the way of providence, has (according to the judge<g ref="char:EOLhyphen"/>ment of men able to diſcern) endowed with gifts ſuitable to places of publick inſtruction or direction. For ſelf-conceited fancy and pretended revelation, or authorization by the Spi<g ref="char:EOLhyphen"/>rit onely, is the mother of all confuſion and deluſion.</p>
+            <p>And ô that <hi>Magiſtrates</hi> whom God has deſigned to rule, would lead his people like a flock, in unity with lenity. So as to be neither <hi>Jehu's,</hi> driving too furiouſly, leſt they over-drive the ſheep; nor yet <hi>Gallio's,</hi> ruling too negligently, betraying their own authority, together with the peoples ſecurity.</p>
+            <p>That <hi>Miniſters</hi> would ſtudy <hi>Unity,</hi> the end of their <hi>Office,
+<note place="margin">Epheſ. 4.16.</note> Epheſ.</hi> 4.16. that the whole body of the Church being com<g ref="char:EOLhyphen"/>pacted, not diſtracted into factions and fractions, (which we know hinder thriving by diſlocation) may grow to the increaſe of it ſelf in love.</p>
+            <p>And that <hi>people would know them that are over them as Pa<g ref="char:EOLhyphen"/>ſtors and Shepherds in the Lord, hearken to them,
+<note place="margin">Heb. 13.7, 17. 1 Pet. 5.4.</note> following their faith, and ſound Doctrine, ſeeing they muſt render an account of their ſoules to the chief Shepherdat the laſt day, that they may do it with joy, not grief of heart,</hi> which will not be profitable for them.</p>
+            <p>My Lords, ye are this day to drive the chariot of the Sun of righteouſneſſe, betwixt theſe two Tropicall points, <hi>Lenity, <g ref="char:V">Ʋ</g>nity;</hi> ye are to ſing <hi>Davids</hi> ſong in the me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, <hi>of mercy
+<pb n="20" facs="tcp:47403:13"/>and judgement will I ſing.</hi>
+               <note place="margin">Pſal. 101.1.</note> Let mercy have the precedency, go before; but let judgement purſue, and overtake evil doers. To take out the Prophet <hi>Micah's</hi> leſſon,
+<note place="margin">Micah 6.8.</note> 
+               <hi>To love mercy, and to do juſtice:</hi> ſo to love <hi>mercy,</hi> as to do <hi>juſtice;</hi> ſo to do <hi>juſtice,</hi> as ſtill to love <hi>mercy.</hi> To which purpoſe, forget not <hi>Aaron,</hi> he's your brother. The benefit of the <hi>Clergy,</hi> as it's common<g ref="char:EOLhyphen"/>ly called, is, as I conceive, under your Lordſhips favour, a prudent mitigation of the ſeverity of our Lawes, wiſely in<g ref="char:EOLhyphen"/>twiſted into the adminiſtration of juſtice, by our fore-ſeeing fore-fathers,
+<note place="margin">Net totam ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vitutem ferre poſſumus, nec to<g ref="char:EOLhyphen"/>tam libertatem.</note> who knew our temper, that we could endure neither all <hi>lenity,</hi> nor all <hi>ſeverity.</hi> Too much <hi>liberty</hi> will make us wilde; too much <hi>ſeverity</hi> will make us mad. <hi>Medio tutiſſimus ibis:</hi> the mean is ſafeſt, beſt.</p>
+            <p>Lead us then, in a word, like a <hi>flock;</hi> with <hi>lenity,</hi> leſt we be worried by our <hi>keepers;</hi> with <hi>unity,</hi> leſt we worry one another. So aime at <hi>unity</hi> as to uſe <hi>lenity;</hi> ſo ex<g ref="char:EOLhyphen"/>erciſe <hi>lenity,</hi> as ſtill to preſerve <hi>unity.</hi> So ſhall ye be as <hi>gods, knowing good and evill,</hi> fit Inſtruments and Repreſentatives of him, that <hi>led his people like a flock by the hand, &amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <opener>
+               <date>
+                  <hi>June</hi> 25, 1653.</date>
+            </opener>
+            <p>
+               <hi>Imprimatur,</hi>
+            </p>
+            <closer>
+               <signed>Edmund Calamy.</signed>
+            </closer>
+            <pb facs="tcp:47403:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
